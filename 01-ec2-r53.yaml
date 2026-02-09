@@ -3,7 +3,7 @@
   connection: local
   vars:
     ami_id: ami-0220d79f3f480ecf5
-    sg_id: sg-0af0f38d03f29a201 # replace with your SG ID
+    sg_id: sg-02d08cd39708d58c0 # replace with your SG ID
     zone_id: "Z00483002KQGHYINL2NKX" # replace with your ID
     domain_name: "bandarusuresh.in"
     # we can pass instances through command line using -e
